@@ -1,0 +1,246 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 21px;
+  height: 10px;
+  width: 19%;
+  border-color: #8e7f7f;
+  margin-top: 0;
+}
+h2{
+  color: #1e212d;
+  padding-bottom: 21px;
+  margin:0;
+  padding-top:33px;
+  font-family: 'Montserrat'serif;
+}
+th{
+  height:70px;
+}
+tbody{
+  height: 70px;
+}
+table{
+  border-color: #1e212d;
+}
+h1{
+  color: #f0a500;
+}
+
+/*the css of the firs page*/
+.sommaire {
+  text-decoration: underline;
+}
+
+.h2 {
+  margin-bottom: 0;
+}
+
+.hi {
+  height: 332px;
+  position: relative;
+  left: -12px;
+  width: 700px;
+}
+
+.first-div {
+  background-color: #eabf9f;
+  height: 332px;
+}
+
+.firs-second {
+  position: absolute;
+  height: 330px;
+  width: 200px;
+  left: 513px;
+  top: 314px;
+}
+
+.second-div {
+  height: 500px;
+  background-color: #B68973;
+}
+
+/* ********* covid section   ******** */
+.body1 {
+  height: 675px;
+  background-color: #faf3e0;
+}
+
+.covid-h11 {
+  margin: 0;
+  color: #1e212d;
+  text-transform: uppercase;
+}
+
+.coviddiv {
+  height: 630px;
+  width: 500px;
+  margin-left: 350px;
+}
+
+.covid1 {
+  height: 300px;
+  width: 500px;
+}
+
+.body2 {
+  height: 500px;
+  background-color: #eabf9f;
+}
+
+.covid-h12 {
+  text-transform: uppercase;
+}
+
+.covid-country {
+  height: 300px;
+  width: 700px;
+}
+
+/*################ this is the css of recette#########*/
+.t1 {
+  height: 300px;
+  width: 500px;
+}
+
+.t2 {
+  height: 300px;
+  width: 500px;
+}
+
+.t3 {
+  height: 300px;
+  width: 500px;
+}
+
+.t4 {
+  height: 300px;
+  width: 500px;
+}
+
+/*[[[[[[[[[[[]]]]]]]]]]]the css of cv [[[[[[[[[]]]]]]]]]*/
+.first-body {
+  background-color: #faf3e0;
+}
+
+.one {
+  background-color: #eabf9f;
+  height: 1347px;
+  position: absolute;
+  left: 120px;
+}
+
+.tow {
+  background-color: #b68973;
+  /* background-color: #f9f3f3; */
+  height: 994px;
+  width: 1000px;
+  margin-top: 214px
+}
+
+.metach {
+  border: 10px;
+  border-style: solid;
+  border-color: #eabf9f;
+  height: 204px;
+  position: absolute;
+  width: 163px;
+  left: 65px;
+  top: 91px;
+}
+
+.butoom-cv-one {
+  border: 10px;
+  border-style: solid;
+  border-color: #eabf9f;
+  height: 204px;
+  width: 163px;
+  position: absolute;
+  background-color: #F4F9F9;
+  right: 65px;
+  top: 91px;
+}
+
+.tachfineak {
+  height: 120px;
+  width: 344px;
+  position: absolute;
+  left: 327px;
+  top: 74px;
+}
+
+.font {
+  color: #1e212d;
+  margin-top: 15px;
+  font-family: 'Montserrat'sans-serif;
+}
+.the-body-cv{
+height: 1000px;
+width: 1000px;
+
+}
+.education{
+  height: 856px;
+  width: 400px;
+}
+.career{
+height: 860px;
+width:400px;
+position: absolute;
+top: 348px;
+left: 600px;
+}
+.tableee{
+  width: 394px;
+}
+.azdar{
+  height: 82px;
+  padding-top: 1px;
+
+}
+.p-azdar{
+  line-height: 7;
+}
+.t-ach{
+  padding-top: 20px;
+}
+.sites{
+  width: 400px;
+  height: 466px;
+}
+/*####################### the css of web sites################*/
+
+.my-sites{
+  /* background-color: #dddddd; */
+  position:absolute;
+  top: 100px;
+  left:341px
+}
+.sitesimage{
+  height: 1220px;
+  width: 1216px;
+
+
+}
+
+
+
+
+/*5555555555555555555555 the css of ewa web site 5555555555555555555*/
+.buton{
+   height: 1000px;
+
+}
+.btn-secondary{
+  height: 50px;
+  position:absolute;
+  right: 586px;
+  top: 351px;
+  height: 73px;
+
+}
